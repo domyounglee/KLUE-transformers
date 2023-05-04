@@ -1,4 +1,4 @@
-# Fine-Tuning on KLUE baseline model with Transformers
+# Fine-Tuning on KLUE baseline model with Transformers Notebooks 
 ### *- Exploring the KLUE dataset and Fine Tuning bert-based pretrained model -*
 
 
@@ -31,10 +31,9 @@ datasets==2.10
 |KLUE-NER|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15jiJJVSgykXGA8Hpndr_sOdOdlbF2B-A?usp=share_link)|
 |KLUE-RE|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hly1hhGZjGgae4zb2J8Ox890ecQjnpmr?usp=share_link)|
 |KLUE-DP|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NbhMQTirAvgKE67DAvsGqRWB3Zylq2cd?usp=share_link)|
-|KLUE-MRC|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GxGQxuGpuFDok5oSsIRPrfyUquLaUeS2?usp=sharing)|
+|KLUE-MRC|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QlOedmoDCrN8v31wkIo0sAshaeiyE3zx?usp=sharing)|
 |KLUE-DST|[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XV8iRACIvUOx67VYcH1h1AOGMUkzy2zR?usp=sharing)|
 
-**_note : KLUE-DP and KLUE-DST tasks are working in progress_**
 
 #### Reference 
 
