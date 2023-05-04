@@ -1,4 +1,4 @@
-# Fine-Tuning on KLUE baseline model with Transformers Notebooks 
+# Fine-Tuning KLUE baseline models with Transformers Notebooks 
 ### *- Exploring the KLUE dataset and Fine Tuning bert-based pretrained model -*
 
 
